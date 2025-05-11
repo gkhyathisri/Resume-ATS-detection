@@ -1,0 +1,5 @@
+transformers 
+sentence-transformers 
+PyPDF2 
+python-docx 
+scikit-learn
